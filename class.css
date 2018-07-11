@@ -1,0 +1,157 @@
+body{
+	font-family:"lucida console";
+	font-size:10px;
+	background-color:black;
+}
+td{
+	font-family:"lucida console";
+	font-size:10px;
+	background-color:black;
+}
+.sea{
+	color:#0077aa;
+}
+.mura{
+	color:#993615;
+}
+.vetriPalazzo{
+	color:#1AA392;
+}
+.prato{
+	color:#1FBE4A;
+}
+.gru{
+	color:#FFFF00;
+}
+.tronco{
+	color:#8E3616
+}
+.ferro{
+	color:#8E3616
+}
+.alberi{
+	color:#13742D
+}
+.sabbia{
+	color:#CBAB46;
+}
+.legno{
+	color:#7A2B10;
+}
+.bordiStrada{
+	color:#A6a6a6;
+}
+.palazzo1{
+	color:#1AA392;
+}
+.palazzo2{
+	color:#a5b5bb;
+}
+.palazzo3{
+	color:#9a9379;
+}
+.palazzo4{
+	color:#BAE3DE;
+}
+.palazzo5{
+	color:#6F8885;
+}
+.palazzo6{
+	color:#88856F;
+}
+.palazzo7{
+	color:#1AA392;
+}
+.palazzo8{
+	color:#F44392;
+}
+.palazzo9{
+	color:#1AAF92;
+}
+.palazzo10{
+	color:#165A5A;
+}
+.palazzo11{
+	color:#E38632;
+}
+.palazzo12{
+	color:#1A6392;
+}
+.palazzo13{
+	color:#1AA392;
+}
+.palazzo14{
+	color:#1AA392;
+}
+.palazzo15{
+	color:#1AA392;
+}
+.palazzo16{
+	color:#1AA392;
+}
+.palazzo17{
+	color:#1AA392;
+}
+.palazzo18{
+	color:#1AA392;
+}
+.palazzo19{
+	color:#1AA392;
+}
+.palazzo20{
+	color:#1AA392;
+}
+.palazzo21{
+	color:#1AA392;
+}
+.palazzo22{
+	color:#1AA392;
+}
+.palazzo23{
+	color:#1AA392;
+}
+.palazzo24{
+	color:#1AA392;
+}
+.palazzo25{
+	color:#1AA392;
+}
+.palazzo26{
+	color:#1AA392;
+}
+.palazzo27{
+	color:#1AA392;
+}
+.palazzo28{
+	color:#1AA392;
+}
+.palazzo29{
+	color:#1AA392;
+}
+.capannone1{
+	color:#BBABA5
+}
+.aranci{
+	color:orange;
+}
+.human{
+	color:#FFFFFF;
+}
+.car1{
+	color:#AAAA11;
+}
+.barca{
+	color:#D2953A;
+}
+.campanile{
+	color:#956F35;
+}
+.capannone2{
+	color: #D69F4D;
+}
+.piramide{
+	color:#EFE75C;
+}
+.prigione{
+	color:#8B450D;
+}
