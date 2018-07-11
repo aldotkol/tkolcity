@@ -24,11 +24,6 @@ if($username=="AldoTKOL")
 {
 	$canSee=true;
 }
-//	$canSee= (!$canSee) ? $username=="yvaineAstrid" : $canSee;
-//	$canSee= (!$canSee) ? $username=="DorisCreations" : $canSee;
-	
-
-
 if($canSee){
 	if(strpos($text, "/start") === 0 || $text=="ciao")
 	{
